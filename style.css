@@ -153,6 +153,7 @@ line-height: 40px;
 {
     display: flex;
     justify-content: center;
+    
 }
 .blog-image img
 {
@@ -202,6 +203,10 @@ footer
     .top-area
     {
         grid-template-columns: repeat(1, 1fr);
+    }
+    .header-image
+    {
+        margin:40px 0;
     }
 
     .products
